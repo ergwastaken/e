@@ -12,6 +12,7 @@ A list of links for you to use when you don't have an address bar.
 
 ## THE MOST IMPORTANT LINK
 ~~The [redirector](https://poopy.site/redirector) lets you visit any site by just typing in the url. If you want to visit a site not listed, definitely use this.~~
+New redirector by erg [Redirector](https://ergwastaken.github.io/redirector/)
 
 ## Glossary
 🐐 = The greatest
