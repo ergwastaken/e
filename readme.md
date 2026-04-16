@@ -1,16 +1,14 @@
 <!-- don't mess it up -->
 
-  <h3 align="center">Resources</h3>
+<div align="center">
 
-  <p align="center">
-    A list of links for you to use when you don't have an address bar.
-    <br />
-    <a href="https://poopy.site">poopy.site</a>
-    ·
-    <a href="https://poopy.site/redirector">Redirector</a>
-    ·
-    <a href="https://github.com/a5tw/interferencebravecivilian/issues/new">Suggestions</a>
-  </p>
+### Resources
+
+A list of links for you to use when you don't have an address bar.
+
+**~~[poopy.site](https://poopy.site)~~ · ~~[Redirector](https://poopy.site/redirector)~~ · [Suggestions](https://github.com/a5tw/interferencebravecivilian/issues/new)**
+
+</div>
 
 ## THE MOST IMPORTANT LINK
 The [redirector](https://poopy.site/redirector) lets you visit any site by just typing in the url. If you want to visit a site not listed, definitely use this.
