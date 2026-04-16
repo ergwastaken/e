@@ -11,7 +11,7 @@ A list of links for you to use when you don't have an address bar.
 </div>
 
 ## THE MOST IMPORTANT LINK
-The [redirector](https://poopy.site/redirector) lets you visit any site by just typing in the url. If you want to visit a site not listed, definitely use this.
+~~The [redirector](https://poopy.site/redirector) lets you visit any site by just typing in the url. If you want to visit a site not listed, definitely use this.~~
 
 ## Glossary
 🐐 = The greatest
@@ -19,7 +19,7 @@ The [redirector](https://poopy.site/redirector) lets you visit any site by just 
 ⭐ = Really good
 
 ## Table of Contents
-1. [Run by @legendaryfishwastaken](#run-by-legendaryfishwastaken)
+~~1. [Run by @legendaryfishwastaken](#run-by-legendaryfishwastaken)~~
 2. [Google Services](#google-services)
 3. [Games](#games)
 4. [Quiz Games](#quiz-games)
